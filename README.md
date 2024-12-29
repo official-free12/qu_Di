@@ -1,0 +1,6 @@
+# 区块链DAPP游戏 卡牌交易 NFT盲盒 西游记 集卡 BSC交易
+
+演示网址：example.com/#/<br>NFT Journey to the West是以西游文化为主题的NFT卡牌游戏，用户通过购买NFT盲盒，可以获得不同战力的卡牌英雄，可以通过卡牌升级方式提升自己的卡牌和战力。NFT卡牌放置到矿池中，获得治理其中售卡资金的60%将添加到资金池，20%用来回购并进行销毁，20%用来市场运营。<br>玩家除了可以购买自己喜欢的卡片，还可以获得至少一种稀有卡片<br>没张卡片的每种生物，都可以进化出自己一种自己的力量和属性组合，由于游戏是应用区块链技术的，因此没张卡片的所有权都只属于玩家所有。<br>1、等级（LEVEL）<br>角色的等级是从1级到60级，玩家可以通过战斗提升自己角色等级，等级为60级。在角色等级达到30级时，可以觉醒进化出第二力量。<br>2、名称（NAME）<br>每个进化的角色都可以得到一个新的名字<br>3、经验值（EXPERIENCE）<br>经验值是显示一个角色升级的进度，玩家可以通过战斗获得经验值（XP），经验值越高，升级越快。<br>4、初始技能（DEFAULT POWER）<br>每只角色都可以获得一个在战斗中使用的初始技能<br>5、进化技能（EVOLVED POWER）<br>当角色等级达到30级时，可以完成一次进化，进化后可获得一个新技能。通常这个进化技能有一个冷却时间，只有冷却完成后才可再次使用，并不是无限使用的。<br>6、特殊徽章（SPECIAL BADGES）<br>有些角色会被授予特殊的徽章，在卡片上可以显示它们是什么时候获得的，或者获得了什么成就。例如：所有在预售期间获得的怪兽将显示“预售<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/SDazG" style="color: red;">https://mega-file.org/SDazG</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
